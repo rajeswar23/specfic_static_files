@@ -1,0 +1,28 @@
+h1
+{
+   
+    background-color: aquamarine;
+    border: black;
+}
+
+h2
+{
+    background-color: yellowgreen;
+    border: black;
+}
+p
+{
+    background-color: blueviolet;
+}
+.he
+{
+    border: black dotted;
+}
+h3
+{
+    background-color:blue;
+}
+p
+{
+    size: 50%;
+}
